@@ -46,7 +46,7 @@ $ git commit -a -m "First pages commit"
 $ git push origin gh-pages
 ```
 
-你的GitHub网址应该是可用了。如果你建立的代码不成功，你将会收到一封邮件。
+你的 GitHub 网址应该是可用了。如果你建立的代码不成功，你将会收到一封邮件。
 
 ## 加载你的新 GitHub 网页
 
