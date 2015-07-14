@@ -1,4 +1,4 @@
-# GitHub Pages 是什么?
+# GitHub Pages 是什么
 
 GitHub Pages 是通过我们网站托管和发布的公开网页。
 

@@ -1,4 +1,4 @@
-# 建立 GitHub Pages 的自定义域名
+# 设置 GitHub Pages 的自定义域名
 
 你可以为[用户、组织和项目 Pages](user-org-pro-page.md) 配置一个自定义域名。
 

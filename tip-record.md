@@ -1,4 +1,4 @@
-# 在你的 DNS 提供者上配置一个 A 记录的技巧
+# 在你的 DNS 提供者上配置 A 记录的技巧
 
 要[设置一个自定义顶点域名](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages)，你必须要在你的 DNS 提供者上配置一个 `ALIAS`，`ANAME` ，或者 `A` 记录，这可能会或者可能不会和你的网络主机提供者相同。
 

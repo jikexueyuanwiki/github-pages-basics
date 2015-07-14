@@ -1,4 +1,4 @@
-# 添加一个 CNAME 文件到你的存储库中
+# 添加 CNAME 文件到你的存储库中
 
 如果你正在使用一个[自定义域名](custom-domains.md)去重定向你的 GitHub Pages，你必须创建和提交一个包含自定义域名的 *CNAME* 文件到你的 GitHub Pages 存储库中。
 

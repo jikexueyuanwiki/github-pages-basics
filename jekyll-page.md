@@ -1,4 +1,4 @@
-# 在页面中使用 Jekyll
+# Pages 中使用 Jekyll
 
 除了支持常规的 HTML 内容之外，GitHub Pages 也支持 [Jekyll](https://github.com/jekyll/jekyll)，一个简单的，博客风格的静态网页生成器。Jekyll 使创建站点范围内的头部和底部变得简单，不需要在每个页面复制它们。它也提供[一些其他更深入的模板功能](http://jekyllrb.com/docs/templates/)。
 

@@ -1,4 +1,4 @@
-# 进一步了解 GitHub 页面
+# 进一步了解 GitHub Pages
 
 详见“ [GitHub Pages Features](https://help.github.com/categories/github-pages-features/) ”来获取更多关于 GitHub  Pages 站点上使用已批准的 Jekyll 插件，创建自定义 404 页面和查看可用的存储元数据的信息。
 
