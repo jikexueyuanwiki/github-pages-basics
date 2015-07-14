@@ -1,6 +1,6 @@
 ﻿# 在页面中使用 Jekyll
 
-除了支持常规的 HTML 内容之外， GitHub 页面也支持<a href="https://github.com/jekyll/jekyll">Jekyll</a>,一个简单的，博客感的静态网页生成器。 Jekyll 使创建站点范围内的头部和底部变得简单，不需要在每个页面复制它们。它也提供一些其他更深入的模板功能。
+除了支持常规的 HTML 内容之外， GitHub 页面也支持<a href="https://github.com/jekyll/jekyll"> Jekyll </a>,一个简单的，博客感的静态网页生成器。 Jekyll 使创建站点范围内的头部和底部变得简单，不需要在每个页面复制它们。它也提供一些其他更深入的模板功能。
 
 ## 使用 Jekyll
 
@@ -14,9 +14,9 @@
 
 1. **Ruby** - Jekyll 需要 Ruby 语言。如果你有一个苹果电脑，你很可能已经有 Ruby 。如果你打开​​终端应用程序，然后运行命令`ruby --version`,可以证实这一点。你的 Ruby 版本至少应该是 2.0.0 。如果你已经有了，你就已经完成这一步。跳至步骤 ＃2 。否则，请按照<a href="https://www.ruby-lang.org/en/downloads/">以下说明</a>安装 Ruby 。
 
-2. **Bundler**- 捆绑器的软件包管理器。它使 Ruby 软件版本像 Jekyll 一样。如果你将要在本地建设的 GitHub 网站页面，它能令你容易得多。如果你还没有安装 Bundler ，你可以通过运行命令`gem install bundler`安装它。
+2. **Bundler** - 捆绑器的软件包管理器。它使 Ruby 软件版本像 Jekyll 一样。如果你将要在本地建设的 GitHub 网站页面，它能令你容易得多。如果你还没有安装 Bundler ，你可以通过运行命令`gem install bundler`安装它。
 
-3. **Jekyll**- 主要需要做的事。你将要创建一个名为`Gemfile`的文件在你的网站的库中并添加行`gem 'github-pages`。在此之后，只需运行命令，`bundle install`就可以了。如果你决定跳过步骤＃2，你仍然可以使用命令`gem install github-pages`安装 Jekyll ，但你可能会碰到了命令行的麻烦。这里有一个`Gemfile`的例子，你可以使用（放置在存储库的根目录）：
+3. **Jekyll** - 主要需要做的事。你将要创建一个名为`Gemfile`的文件在你的网站的库中并添加行`gem 'github-pages`。在此之后，只需运行命令，`bundle install`就可以了。如果你决定跳过步骤＃2，你仍然可以使用命令`gem install github-pages`安装 Jekyll ，但你可能会碰到了命令行的麻烦。这里有一个`Gemfile`的例子，你可以使用（放置在存储库的根目录）：
 
 ```
 source 'https://rubygems.org'
