@@ -22,7 +22,6 @@
 source 'https://rubygems.org'
 
 gem 'github-pages'
-
 ```
 
 ## 运行 Jekyll
