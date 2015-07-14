@@ -1,10 +1,10 @@
-# 手动创建项目页面
+# 手动创建项目 Pages
 
-如果你是熟悉 Git 的命令行的，手动创建项目页面网站是非常直观易懂的。
+如果你是熟悉 Git 的命令行的，手动创建项目 Pages 网站是非常直观易懂的。
 
 ## 做一个新的 clone
 
-为了建立一个项目网页，你需要在你的库中新建一个新的`orphan`分支（一个与现存分支没有共同的历史的分支）。最安全的做法是从一个新的 clone 开始来做这件事：
+为了建立一个项目 Pages，你需要在你的库中新建一个新的`orphan`分支（一个与现存分支没有共同的历史的分支）。最安全的做法是从一个新的 clone 开始来做这件事：
 
 ```
 $ git clone github.com/user/repository.git
@@ -46,10 +46,10 @@ $ git commit -a -m "First pages commit"
 $ git push origin gh-pages
 ```
 
-你的 GitHub 网页应该是可用了。如果你建立的代码不成功，你将会收到一封邮件。
+你的 GitHub Pages 应该是可用了。如果你建立的代码不成功，你将会收到一封邮件。
 
 ## 加载你的新 GitHub 网页
 
-在你推送`gh-pages`分支后，你的项目网页在`http(s)://<username>.github.io/<projectname>`上是可用的。记住，这个网页总是公开课进入的，当它发布之后，尽管它的库是私有的。
+在你推送`gh-pages`分支后，你的项目 Pages 在`http(s)://<username>.github.io/<projectname>`上是可用的。记住，这个 Pages 总是公开课进入的，当它发布之后，尽管它的库是私有的。
 
-关于如何给 GitHub 网页建立一个自定义的域名，可以看看[给 GitHub 网页建立一个自定义的域名](set-custom-domains.md)。
+关于如何给 GitHub Pages 建立一个自定义的域名，可以看看[给 GitHub 网页建立一个自定义的域名](set-custom-domains.md)。

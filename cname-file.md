@@ -7,7 +7,7 @@
 	- 对于用户和组织的页面站点来说，Pages 分支是 `master` 。
 	- 对于项目页面站点来说，Pages 分支是 `gh-pages` 。
 3. 添加一个新文件，命名为 *CNAME* （全部大写！），放在 Pages 分支的根目录下。
-4. 在新文件中，添加一行，指定自定义域名的空子域。例如，使用 `blog.example.com` 而不是 `https://blog.example.com` 。请注意，在 *CNAME* 文件中只允许有**一个域名**。
+4. 在新文件中，添加一行，指定自定义域名的空子域名。例如，使用 `blog.example.com` 而不是 `https://blog.example.com` 。请注意，在 *CNAME* 文件中只允许有**一个域名**。
 5. 输入提交的消息，或接受默认消息。
 6. 在提交消息的对话框底部，点击 **Confirm merge**。
 
@@ -25,8 +25,8 @@
 
 在你已经创建和提交你的 *CNAME* 文件到 GitHub 之后，在你的 DNS 提供者上做以下项之一：
 	
-- 如果你的自定义域是一个[子域](https://help.github.com/articles/about-custom-domains-for-github-pages-sites#subdomains)（推荐），[配置一个 `CNAME` 记录](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)。
-- 如果你的自定义域是一个[顶端域](https://help.github.com/articles/about-custom-domains-for-github-pages-sites#apex-domains)，[配置一个 `ALIAS` , `ANAME` ,或者 `A` 记录](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider)。
+- 如果你的自定义域是一个[子域名](https://help.github.com/articles/about-custom-domains-for-github-pages-sites#subdomains)（推荐），[配置一个 `CNAME` 记录](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)。
+- 如果你的自定义域是一个[顶端域名](https://help.github.com/articles/about-custom-domains-for-github-pages-sites#apex-domains)，[配置一个 `ALIAS` , `ANAME` ,或者 `A` 记录](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider)。
 
 ## 真实的 *CNAME* 文件例子
 

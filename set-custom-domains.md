@@ -10,8 +10,8 @@
 
 ## 通过你的 DNS 提供商配置自定义子域名
 
-如果你的自定义域名是一个[子域](custom-domains.md)，你必须通过你的 DNS 提供商配置 CNAME 记录。欲了解更多信息，请参见[通过你的 DNS 提供商配置`CNAME`记录的技巧](tip-cname.md)。
+如果你的自定义域名是一个[子域名](custom-domains.md)，你必须通过你的 DNS 提供商配置 CNAME 记录。欲了解更多信息，请参见[通过你的 DNS 提供商配置`CNAME`记录的技巧](tip-cname.md)。
 
 ## 通过你的 DNS 提供商配置自定义顶端域名
 
-如果你的自定义域名是一个[顶端域](custom-domains.md)，你必须配置`ALIAS`、`ANAME`或通过 DNA 提供商配置`A`记录，欲了解更多信息，请参见[通过你的DNS提供商配置`A`记录的技巧](tip-record.md)。
+如果你的自定义域名是一个[顶端域名](custom-domains.md)，你必须配置`ALIAS`、`ANAME`或通过 DNA 提供商配置`A`记录，欲了解更多信息，请参见[通过你的DNS提供商配置`A`记录的技巧](tip-record.md)。

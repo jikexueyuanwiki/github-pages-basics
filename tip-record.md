@@ -6,7 +6,7 @@
 
 要获取更多的自定义顶点域信息，详见“[关于 GitHub 页面站点的自定义顶点域名](https://help.github.com/articles/about-custom-domains-for-github-pages-sites#apex-domains)”
 
-**提示**：你可以仅仅只为 GitHub Pages 站点配置一个自定义子域名或者一个自定义顶点域名，[除非你使用一个 `www` 子域](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/#configuring-a-www-subdomain)。
+**提示**：你可以仅仅只为 GitHub Pages 站点配置一个自定义子域名或者一个自定义顶点域名，[除非你使用一个 `www` 子域名](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/#configuring-a-www-subdomain)。
 
 ## 在你的 DNS 上配置一个 A 记录
 
@@ -39,9 +39,9 @@ example.com.     3600    IN A     199.27.XX.XXX
 
 在这里显示的 IP 地址必须要和 `dig username.github.io` 所显示的最终的 IP 地址相匹配。
 
-## 配置一个 `www` 子域
+## 配置一个 `www` 子域名
 
-如果你配置一个顶点域名（例如 `example.com` ）和一个匹配的 `www` [子域](https://help.github.com/articles/about-custom-domains-for-github-pages-sites#subdomains)（例如 `www.example.com` ），GitHub 服务器会自动的创建两重定向。
+如果你配置一个顶点域名（例如 `example.com` ）和一个匹配的 `www` [子域名](https://help.github.com/articles/about-custom-domains-for-github-pages-sites#subdomains)（例如 `www.example.com` ），GitHub 服务器会自动的创建两重定向。
 
 例如：
 
@@ -49,7 +49,7 @@ example.com.     3600    IN A     199.27.XX.XXX
 	
 - 如果你的 `CNAME` 文件包含 `www.example.com`，那么 `example.com` 会定向到 `www.example.com`。
 
-你可以使用除 `www` 以外的一个自定义子域和一个自定义顶点域一起通过域名重定向（有时也称为“域名转发”）。但是，请注意，这仅仅只用于用户和组织的页面，而非项目页面。
+你可以使用除 `www` 以外的一个自定义子域名和一个自定义顶端域名一起通过域名重定向（有时也称为“域名转发”）。但是，请注意，这仅仅只用于用户和组织的页面，而非项目页面。
 
 # 进一步了解
 	
