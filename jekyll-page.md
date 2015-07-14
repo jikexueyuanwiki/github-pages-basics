@@ -78,7 +78,7 @@ Here is my page.
 Here is my page.
 ```
 
-如果你的文件在* _posts*目录中，你可完全删除这些破折号。
+如果你的文件在*_posts*目录中，你可完全删除这些破折号。
 希望参阅更过信息可以查看<a href="http://jekyllrb.com/docs/frontmatter/"> Jekyll 文档</a>
 
 ### 问题解决
