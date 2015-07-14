@@ -21,7 +21,6 @@ Resolving deltas: 100% (1722/1722), done.
 
 一旦你拥有一个空的库，你将需要创建一个新的`gh-pages`分支且从工作目录和首页中去除所有的内容：
 
-
 ```
 $ cd repository
 $ git checkout --orphan gh-pages
@@ -39,7 +38,6 @@ rm '.gitignore'
 当你推送你的程序到页面库中，为了触发它，你必须首先验证你的邮箱地址。
 
 现在你有一个空的工作目录。你可以在这个分支中创建一些内容和推送它到 GitHub 。例如：
-
 
 ```
 $ echo "My Page" > index.html
