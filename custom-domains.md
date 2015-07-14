@@ -4,7 +4,7 @@
 
 ## 子域
 
-一个子域[通过您的DNS提供商来配置`CNAME`记录](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)。
+一个子域[通过您的 DNS 提供商来配置`CNAME`记录](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)。
 
 我们因为以下这些原因强烈建议您使用自定义子域：
 
