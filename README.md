@@ -18,6 +18,6 @@ GitHub Pages 可以为你或者你的项目提供介绍网页，它是由 GitHub
 + GitHub Pages 中使用 Jekyll
 + GitHub Pages 中使用自定义域名
 
-|更新日期    |更新内容
+|更新日期    |更新内容 
 |----------|--------------------
 |2015-07-14| GitHub Pages 指南
